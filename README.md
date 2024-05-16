@@ -1,5 +1,4 @@
-# avila.github.io
+## Hi There 
 
-## Python projects
 
-- GTD: [Folium Map](map_europe.html)
+
